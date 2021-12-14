@@ -3,10 +3,8 @@
 Telas feitas pra estudo
 
 ## Getting Started
-![App UI](https://github.com/tecrodrigocastro/login_register_rideapp/tree/main/assets/images/login.jpg)
-![App UI](https://github.com/tecrodrigocastro/login_register_rideapp/tree/main/assets/images/register.jpg)
-![App UI](https://github.com/tecrodrigocastro/login_register_rideapp/blob/main/login.jpg)
-
+![UI](assets/images/login.jpg)
+![UI](assets/images/register.jpg)
 
 This project is a starting point for a Flutter application.
 
